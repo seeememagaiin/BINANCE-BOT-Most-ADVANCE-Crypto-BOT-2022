@@ -4,7 +4,7 @@
 
 <h4 align="center">⭐️ This is an experimental bot for auto trading the binance.com exchange with Notifications ⭐️</h4>
  
-
+ 
  
 ![Screenshot](https://cryptocoinname.com/wp-content/uploads/2022/01/1641497870_maxresdefault-768x432.jpg)
 
